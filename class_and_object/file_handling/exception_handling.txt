@@ -1,0 +1,10 @@
+first you have to know about what types of errors we are getting when we do coding ..
+1. Compile time error - it will occur when you do mistakes a syntax in your program
+Suppose you are using if-else condition and you forget to put the colon there it will be a syntactical error ..
+
+2. Logical error - In logical error your code will run you will not get any errors only when you are performing correct operation
+example of logical errors is : 2+3 = 5 and your console showing the answer of 2+3 is 4 so this is called logical error
+
+3. Run-time error - In run-time error you will not get any error like compile time and logical error
+if user is trying to divide a number by 0 then you will face an error
+this is a user defined error you are not responsible for that but as a developer you have to handle these errors
